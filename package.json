@@ -20,7 +20,7 @@
     "minimist": "^1.2.5",
     "node-sass": "^5.0.0",
     "pluralize": "^8.0.0",
-    "postcss": "^8.2.2",
+    "postcss": "^8.2.10",
     "postcss-import": "^13.0.0",
     "prism-themes": "^1.5.0",
     "remark-attr": "^0.11.1",
